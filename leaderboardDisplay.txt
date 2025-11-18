@@ -1,0 +1,9 @@
+
+----------[ LeaderBoard ]----------
+| Ranking | Name | Score | Grid Size (Difficulty Level) |
+1. Ali | 1368 | 6
+2. Ali | 424 | 6
+3. Ali | 60 | 15
+4. Jack | 40 | 6
+5. Ali | 8 | 6
+------------------------------
