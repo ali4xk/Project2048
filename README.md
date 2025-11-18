@@ -1,1 +1,1 @@
-it is a classic game which includes a grid
+It is a simple and fun implementation of the classic 2048 puzzle game, written in C++
