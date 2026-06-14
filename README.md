@@ -1,4 +1,4 @@
-# 2048 — C++ Console Edition
+# 2048 Game — C++ Console Edition
 
 A console-based implementation of the classic 2048 puzzle game, written in C++. This version focuses on core game logic and file handling, including a persistent leaderboard system.
 
