@@ -4,7 +4,7 @@ A console-based implementation of the classic 2048 puzzle game, written in C++. 
 
 **Built by Muhammad Ali ([@ali4xk](https://github.com/ali4xk))**
 
-> A graphical Python remake of this project (with a full Tkinter UI) is available [here](https://github.com/ali4xk/2048Game-Python).
+> A graphical Python remake of this project (with a full Tkinter UI) is available [here](https://github.com/ali4xk/2048Game-Python-).
 
 ---
 
